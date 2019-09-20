@@ -1,0 +1,10 @@
+---
+title: "Milestone 2"
+author: "Mari Jones"
+date: "9/19/2019"
+output: html_document
+---
+
+For this Milestone, I looked at two final projects with topics similar to what I'm considering doing my own final project on (criminal justice related issues or something related to politics and black voting patterns). I looked at Kemi Akenzua's project "Analysis of Death Row Inmates in Texas" which I was very fond of. The pros of it was definitely the subject matter. I felt like this was a really cool topic and a unique situation to look at. I love how she provided actual statements from death row inmates and how the word graphic was organized to highlight most popular words used and correlating that with different emotions. I also thought that the organization of the pie chart to show "why Texas" over the past decade was a really good asset. I thought that the project could have improved about the relevancy of the issue, like it was really cool and an important, sensitive issue, but I felt like I needed an explanation about why this project and what is the importance of knowing sentiments of death row inmates who are about to be executed and what are possible next steps knowing this information. 
+
+The second project I looked at was Debi Gonzales's "The 'Purple' Sunshine State". I thought that this was another good topic in light of voter enfranchisement of previously incarcerated individuals and civic engagement leading into the 2020 election, especially considering what an important swing state Florida is. However, I thought that the images and charts were a little too convoluted. Like the actual graphic of florida and looking at demographic breakdown of political party was really hard to read and to navigate and was also too small compared to the rest of the page. I did like how the data and other graphics were organized by tabs, similar to Kemi's project, but the first part was just a little difficult and a lot of the graphs/data have a lot of numbers but very little explanation about why a chart or line graph was included and what it is saying.  
